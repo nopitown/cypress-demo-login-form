@@ -1,0 +1,27 @@
+{
+  "name": "cypress-demo-login-form",
+  "version": "1.0.0",
+  "description": "## Install dependencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nopito/cypress-demo-login-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nopito/cypress-demo-login-form/issues"
+  },
+  "homepage": "https://github.com/nopito/cypress-demo-login-form#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^7.0.2",
+    "cypress": "^6.0.1"
+  }
+}
